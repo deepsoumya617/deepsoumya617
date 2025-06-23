@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsoumya617&show_icons=true&locale=en&layout=compact" alt="deepsoumya617" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepsoumya617&show_icons=true&locale=en" alt="deepsoumya617" /></p>
-
+<p><img align="center" src="https://streak-stats.demolab.com/?user=deepsoumya617" alt="deepsoumya617" /></p>
 
