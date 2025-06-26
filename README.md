@@ -30,6 +30,6 @@
 <!-- Activity Graph -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsoumya617&theme=react-dark&hide_border=true&area=tru" width="*91%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsoumya617&theme=default&hide_border=false&area=tru" width="*91%">
 </div>
 
