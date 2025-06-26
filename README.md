@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsoumya617&label=Profile%20views&color=0e75b6&style=flat" alt="deepsoumya617" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepsoumya617" alt="deepsoumya617" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepsoumya617&theme=dracula" alt="deepsoumya617" /></a> </p>
 
 - 🔭 I’m currently working on [Nesto - A minimal app for saving notes and code snippets.](https://github.com/deepsoumya617/Nesto)
 
