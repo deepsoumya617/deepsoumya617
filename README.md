@@ -26,5 +26,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepsoumya617&show_icons=true&locale=en" alt="deepsoumya617" /></p>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=deepsoumya617&theme=default&hide_border=false" alt="deepsoumya617" /></p>
-![](https://github-contributor-stats.vercel.app/api?username=deepsoumya617&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+<!-- Activity Graph -->
+<h2>Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsoumya617&theme=react-dark&hide_border=true&area=tru" width="*91%">
+</div>
 
