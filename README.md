@@ -28,7 +28,6 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=deepsoumya617&theme=default&hide_border=false" alt="deepsoumya617" /></p>
 
 <!-- Activity Graph -->
-<h2>Contribution Graph</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsoumya617&theme=react-dark&hide_border=true&area=tru" width="*91%">
