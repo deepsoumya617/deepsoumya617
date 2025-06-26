@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep</h1>
-<h3 align="center">I'm a Full Stack Web and App developer from West Bengal, India.</h3>
+<h3 align="center">I'm a Full Stack Web developer from West Bengal, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsoumya617&label=Profile%20views&color=0e75b6&style=flat" alt="deepsoumya617" /> </p>
 
@@ -25,6 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsoumya617&show_icons=true&locale=en&layout=compact" alt="deepsoumya617" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepsoumya617&show_icons=true&locale=en" alt="deepsoumya617" /></p>
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=deepsoumya617" alt="deepsoumya617" /></p> -->
+<p><img align="center" src="https://streak-stats.demolab.com/?user=deepsoumya617" alt="deepsoumya617" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsoumya617&" alt="deepsoumya617" /></p>
 
