@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,prisma,postgresql,nodejs,cpp,git,linux,firebase,supabase,postman" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,prisma,postgresql,clerk,nodejs,cpp,git,linux,firebase,supabase,postman" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsoumya617&theme=dracula&show_icons=true&locale=en&layout=compact" alt="deepsoumya617" /></p>
