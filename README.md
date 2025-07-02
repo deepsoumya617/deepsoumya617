@@ -37,3 +37,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsoumya617&theme=dracula&hide_border=false&area=tru" width="*91%">
 </div>
 
+<h3 align="left">🎧 Currently Listening</h3>
+<p align="left">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ga3arfttqd6gjgdtqeidgn9i7&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
+
