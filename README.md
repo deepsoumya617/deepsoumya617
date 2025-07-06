@@ -80,10 +80,7 @@
     alt="deepsoumya617 GitHub Stats"  
   />
 
-<img 
-    src="https://nirzak-streak-stats.vercel.app/?user=deepsoumya617&theme=radical&hide_border=false &hide_border=true" 
-    alt="deepsoumya617 Streak Stats" 
-  />
+<p><img src="https://nirzak-streak-stats.vercel.app/?user=deepsoumya617&theme=radical&hide_border=true" alt="deepsoumya617" /></p>
 
 </div>
 
