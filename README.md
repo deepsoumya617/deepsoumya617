@@ -3,7 +3,7 @@
 <p align="center" style="font-size: 18px; font-family: sans-serif;">
   こんにちは🙋‍♂️！<strong>Soumyadeep</strong> です。<br>
 </p>
-<p align="center" style="font-size: 16px; font-family: sans-serif; letter-spacing: 0.8px">Full-stack web developer. Next.js-Prisma-PostgreSQL ~ exploring Go; Passionate about backend systems. Building Nesto ~ an ai powered Note and Snippet manager.</p><hr/>
+<p align="center" style="font-size: 16px; font-family: sans-serif; letter-spacing: 0.8px">Full-stack web developer. Next.js-Prisma-PostgreSQL ~ exploring Go; Passionate about backend systems.<br/> Building Nesto ~ an ai powered Note and Snippet manager.</p><hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsoumya617&label=Profile%20views&color=0e75b6&style=flat" alt="deepsoumya617" style="margin-top: 7px"/> </p>
 
