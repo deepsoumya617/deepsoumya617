@@ -37,3 +37,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsoumya617&theme=dracula&hide_border=false&area=tru" width="*91%">
 </div>
 
+<!-- last listened to -->
+<div align="center">
+  <a href="https://open.spotify.com/user/ga3arfttqd6gjgdtqeidgn9i7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ga3arfttqd6gjgdtqeidgn9i7&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
