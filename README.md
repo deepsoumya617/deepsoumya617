@@ -29,4 +29,5 @@
 
 ---
 
-🌸 thanks for visiting!
+🌸 きてくれて ありがとう!
+🌼 thanks for visiting!
