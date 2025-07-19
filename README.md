@@ -10,9 +10,6 @@
 
 🧠 code × こころ — making software with feeling and logic
 
-📖 すきなことば:
-> 「けいぞく は ちから なり」— perseverance is power
-
 📬 connect:
  [instagram](https://instagram.com/_deep_.soumya/) ・ [linkedin](https://www.linkedin.com/in/deepsoumya617/) <br/>
 📩 or mail me at ~ **soumyadeepghosh617@gmail.com**
