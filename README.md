@@ -25,7 +25,7 @@
 |--------|-------------|
 | [Nesto](https://github.com/deepsoumya617/nesto) | a minimal webapp to manage notes and code snippets together. powered by ai⚡.  |
 | [Lexo](https://github.com/deepsoumya617/lexo) | a clean and elegeant dictionary app that gives info like meanings, synonyms, diff forms(noun/adverb/verb...) about various english words.📑|
-| [CaffLog](https://github.com/deepsoumya617/CaffLog) | a simple and minimal Coffee Tracker built w. React JS, FantaCSS and Firebase🚀! |
+| [CaffLog](https://github.com/deepsoumya617/CaffLog) | a simple and minimal Coffee Tracker built w. reactjs, fantacss and firebase🚀! |
 
 ---
 
