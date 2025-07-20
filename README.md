@@ -4,11 +4,11 @@
 🇮🇳 from India ・ にほんご を べんきょう しています (N4 を めざしています)
 
 🌱 now learning:
-- full stack development (next.js, typescript, tailwindcss, postgresq, prisma, clerk)
-- backend with go
+- full stack development (``next.js``, ``typescript``, ``tailwindcss``, ``postgresq``, ``prisma``, ``clerk``)
+- backend with ``go``
 - にほん の ぶんか と ことば
 
-🧠 code × こころ — making software with feeling and logic
+<!-- 🧠 code × こころ — making software with feeling and logic -->
 
 📬 connect:
  [instagram](https://instagram.com/_deep_.soumya/) ・ [linkedin](https://www.linkedin.com/in/deepsoumya617/) <br/>
