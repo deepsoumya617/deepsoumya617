@@ -20,8 +20,8 @@
 
 | project | link | description
 |--------|---------|----------------|
-| [Nesto](https://github.com/deepsoumya617/nesto) | soon! | a minimal webapp to manage notes and code snippets together. powered by ai⚡.  |
-| [Lexo](https://github.com/deepsoumya617/lexo) | https://lexo-deepsoumya.vercel.app/ | a clean and elegeant dictionary app that gives info like meanings, synonyms, diff forms(noun/adverb/verb...) about various english words.📑|
+| [Nesto](https://github.com/deepsoumya617/nesto) | https://nestoai.vercel.app | a minimal webapp to manage notes and code snippets together. powered by ai⚡.  |
+| [Lexo](https://github.com/deepsoumya617/lexo) | https://lexo-deepsoumya.vercel.app | a clean and elegeant dictionary app that gives info like meanings, synonyms, diff forms(noun/adverb/verb...) about various english words.📑|
 | [CaffLog](https://github.com/deepsoumya617/CaffLog) | https://cafflog-coffee-tracker.netlify.app | a simple and minimal Coffee Tracker built w. reactjs, fantacss and firebase🚀! |
 
 ---
