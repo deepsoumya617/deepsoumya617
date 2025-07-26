@@ -1,12 +1,12 @@
 # 👋 こんにちは、Soumyadeep です！
 
 >> software engineer × poet  
-🇮🇳 from India ・ にほんご を べんきょう しています (N4 を めざしています)
+🇮🇳 from India
 
 🌱 now learning:
 - full stack development (``next.js``, ``typescript``, ``tailwindcss``, ``postgresq``, ``prisma``, ``clerk``)
-- backend with ``go``
-- にほん の ぶんか と ことば
+- backend with ``NestJS``
+- N5 Level japanese
 
 <!-- 🧠 code × こころ — making software with feeling and logic -->
 
