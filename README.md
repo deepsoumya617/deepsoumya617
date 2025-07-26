@@ -5,7 +5,7 @@
 
 🌱 now learning:
 - full stack development (``next.js``, ``typescript``, ``tailwindcss``, ``postgresq``, ``prisma``, ``clerk``)
-- backend with ``NestJS``
+- backend with ``GO``
 - N5 Level japanese
 
 <!-- 🧠 code × こころ — making software with feeling and logic -->
