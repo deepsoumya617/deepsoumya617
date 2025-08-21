@@ -1,14 +1,15 @@
 # 👋 こんにちは、Soumyadeep です！
 
->> software engineer × poet  
+>> software engineer
+>> vibe coder in disguise!
 🇮🇳 from India
 
 🌱 now learning:
-- full stack development (``next.js``, ``typescript``, ``tailwindcss``, ``postgresq``, ``prisma``, ``clerk``)
+- full stack development (``next.js``, ``typescript``, ``tailwindcss``, ``postgresq``, ``prisma``, ``clerk``, `NodeJS`, `MongoDB`, `zod`)
 - backend with ``Ts-Node``
-- N5 Level japanese
+- DSA with ``java``
 
-<!-- 🧠 code × こころ — making software with feeling and logic -->
+<!-- 🧠 code — making software with feeling and logic -->
 
 📬 connect:
  [instagram](https://instagram.com/_deep_.soumya/) ・ [linkedin](https://www.linkedin.com/in/deepsoumya617/) <br/>
@@ -16,7 +17,7 @@
 
 ---
 
-## 📂 さいきん の プロジェクト // Recent Projects
+## 📂 Recent Projects
 
 | project | link | description
 |--------|---------|----------------|
@@ -26,5 +27,4 @@
 
 ---
 
-🌸 きてくれて ありがとう! <br/>
 🌼 thanks for visiting!
