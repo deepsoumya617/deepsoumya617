@@ -2,13 +2,14 @@
 
 >> software engineer
 >> vibe coder in disguise!
+>> building scalable backends...
 🇮🇳 from India
 
 🌱 now learning:
 - full stack development (``next.js``, ``typescript``, ``tailwindcss``, ``postgresq``, ``prisma``, ``clerk``, `NodeJS`, `MongoDB`, `zod`)
 - backend with ``Ts-Node``
 - DSA with ``c++``
-- ``golang`` for fun!
+
 
 <!-- 🧠 code — making software with feeling and logic -->
 
