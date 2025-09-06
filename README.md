@@ -1,15 +1,19 @@
 # 👋 こんにちは、Soumyadeep です！
 
->> software engineer
->> vibe coder in disguise!
->> building scalable backends...
+> software engineer; <br/>
+> vibe coder in disguise! <br/>
+> building scalable backends...
 🇮🇳 from India
 
 🌱 now learning:
-- full stack development (``next.js``, ``typescript``, ``tailwindcss``, ``postgresq``, ``prisma``, ``clerk``, `NodeJS`, `MongoDB`, `zod`)
-- backend with ``Ts-Node``
-- DSA with ``c++``
+  - Backend development [Full Time] (`Node.js`, `TypeScript`, `PostgreSQL`, `Prisma ORM`, `Drizzle ORM`, `Zod`)  
+  - DevOps Basics (`Docker`, `CI/CD pipelines`, `Linux`, `Nginx`, `AWS basics`)  
+  - Caching & Background Jobs (`Redis`, `BullMQ/queues`, `workers`)  
+  - DSA with C++ (sometimes, when i become overconfident++)
+  - 日本語 🗾 
 
+💡 I love to build **full-stack saas products** from scratch.  
+   On weekends I try experimenting with side  `pro-[duct/ject]s` , but I procrastinate a lot (っ◞‸◟ c). Though you can check my old `pro-[duct/ject]s`.🌼
 
 <!-- 🧠 code — making software with feeling and logic -->
 
@@ -21,11 +25,7 @@
 
 ## 📂 Recent Projects
 
-| project | link | description
-|--------|---------|----------------|
-| [Nesto](https://github.com/deepsoumya617/nesto) | https://nestoai.vercel.app | a minimal webapp to manage notes and code snippets together. powered by ai⚡.  |
-| [Lexo](https://github.com/deepsoumya617/lexo) | https://lexo-deepsoumya.vercel.app | a clean and elegeant dictionary app that gives info like meanings, synonyms, diff forms(noun/adverb/verb...) about various english words.📑|
-| [CaffLog](https://github.com/deepsoumya617/CaffLog) | https://cafflog-coffee-tracker.netlify.app | a simple and minimal Coffee Tracker built w. reactjs, fantacss and firebase🚀! |
+> No active `pro-[duct/ject]s` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. 
 
 ---
 
