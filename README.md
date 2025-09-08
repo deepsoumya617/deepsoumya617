@@ -18,7 +18,8 @@
 <!-- 🧠 code — making software with feeling and logic -->
 
 📬 connect:
- [instagram](https://instagram.com/_deep_.soumya/) ・ [linkedin](https://www.linkedin.com/in/deepsoumya617/) <br/>
+[x](https://x.com/deepsoumyaaa) •
+[instagram](https://instagram.com/_deep_.soumya/) ・ [linkedin](https://www.linkedin.com/in/deepsoumya617/) <br/>
 📩 or mail me at ~ **soumyadeepghosh617@gmail.com**
 
 ---
