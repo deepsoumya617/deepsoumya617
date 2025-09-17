@@ -13,7 +13,7 @@
   - 日本語 🗾 
 
 💡 I love to build **full-stack saas products** from scratch.  
-   On weekends I try experimenting with side  `pro-[duct/ject]s` , but I procrastinate a lot (っ◞‸◟ c). Though you can check my old `pro-[duct/ject]s`.🌼
+   On weekends I try experimenting with side  `projects` , but I procrastinate a lot (っ◞‸◟ c). Though you can check my old `projects`.🌼
 
 <!-- 🧠 code — making software with feeling and logic -->
 
@@ -26,7 +26,7 @@
 
 ## 📂 Recent Projects
 
-> No active `pro-[duct/ject]s` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. 
+> No active `projects` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. 
 
 ---
 
