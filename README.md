@@ -3,7 +3,6 @@
 > software engineer; <br/>
 > vibe coder in disguise! <br/>
 > building scalable backends...
-🇮🇳 from India
 
 🌱 now learning:
   - Backend development [Full Time] (`Node.js`, `TypeScript`, `PostgreSQL`, `Prisma ORM`, `Drizzle ORM`, `Zod`)  
