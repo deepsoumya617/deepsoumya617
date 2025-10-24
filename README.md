@@ -6,7 +6,8 @@
 
 🌱 now learning:
   - Backend development [Full Time] (mostly w `Node.js` and `Expressjs`)  
-  - System Design
+  - System Design (for building scalable systems)
+  - Devops fundamentals(`Docker`, `CI/CD Pipelines`, `aws`, ....)
   - DSA with C++ (sometimes, when i become overconfident++)
 
 💡 I love to build **full-stack saas products** from scratch.  
@@ -23,7 +24,10 @@
 
 ## 📂 Recent Projects
 
-> No active `projects` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. 
+<!-- > No active `projects` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. -->
+| Project | Description |
+|----------|-------------|
+| [**Shoply**](https://github.com/deepsoumya617/shoply) | A modern RESTful eCommerce backend api with Monolith architecture, but it’s scalable..(i guess!) |
 
 ---
 
