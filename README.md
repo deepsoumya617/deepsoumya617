@@ -5,11 +5,8 @@
 > building scalable backends...
 
 🌱 now learning:
-  - Backend development [Full Time] (`Node.js`, `TypeScript`, `PostgreSQL`, `Prisma ORM`, `Drizzle ORM`, `Zod`)  
-  - DevOps Basics (`Docker`, `CI/CD pipelines`, `Linux`, `Nginx`, `AWS basics`)  
-  - Caching & Background Jobs (`Redis`, `BullMQ/queues`, `workers`)  
+  - Backend development [Full Time] (mostly w `Node.js` and `Expressjs`)  
   - DSA with C++ (sometimes, when i become overconfident++)
-  - 日本語 🗾 
 
 💡 I love to build **full-stack saas products** from scratch.  
    On weekends I try experimenting with side  `projects` , but I procrastinate a lot (っ◞‸◟ c). Though you can check my old `projects`.🌼
