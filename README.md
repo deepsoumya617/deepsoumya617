@@ -6,6 +6,7 @@
 
 🌱 now learning:
   - Backend development [Full Time] (mostly w `Node.js` and `Expressjs`)  
+  - System Design
   - DSA with C++ (sometimes, when i become overconfident++)
 
 💡 I love to build **full-stack saas products** from scratch.  
