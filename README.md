@@ -21,15 +21,13 @@
 [instagram](https://instagram.com/_deep_.soumya/) ・ [linkedin](https://www.linkedin.com/in/deepsoumya617/) <br/>
 📩 or mail me at ~ **soumyadeepghosh617@gmail.com**
 
----
 
-## 📂 Recent Projects
+<!-- ## 📂 Recent Projects -->
 
-<!-- > No active `projects` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. -->
+<!--  No active `projects` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. -->
 <!-- | Project | Description |
 |----------|-------------|
 | [**Shoply**](https://github.com/deepsoumya617/shoply) | A modern RESTful eCommerce backend api with Monolith architecture, but it’s scalable..(i guess!) | -->
 
----
 
 🌼 thanks for visiting!
