@@ -1,33 +1,13 @@
-# 👋 こんにちは、Soumyadeep です！
+> "jack of all trades, master of ~~none~~ all."
 
-> software engineer; <br/>
-> vibe coder in disguise! <br/>
-> building scalable backends...
+hi 👋, i’m **soumyadeep ghosh** (you can call me ***deep***).
 
-🌱 Things I'm exploring mostly:
-  - Backend development (`Node.js` + `Expressjs` + `Typescript`)
-  - Distributed systems
-  - Systems and Infrastructure
-  - Applied ai (`RAGs`, `MCPs`, `AGENTs`, ....)
-  - Devops fundamentals(`Docker`, `CI/CD Pipelines`, `aws`, ....)
+i can do anything. i’m a **full-stack engineer**. i love building **ai-powered saas products** ~ mostly for `web` to make the lives of the common people easier. i enjoy creaing *scalable backend systems* using **node.js** + **typescript** + **express.js** and i’m deeply interested in **distributed systems** 
+and **DevOps**. besides that, i enjoy creating small animated *ui blocks* using `motion`.
 
-<!-- 💡 I love to build **full-stack saas products** from scratch.  
-   On weekends I try experimenting with side  `projects` , but I procrastinate a lot (っ◞‸◟ c). Though you can check my old `projects`.🌼 -->
+i love to work in the `typescript` ecosystem. i mostly ship products with `nextjs`, `tailwind`, `nodejs`/`bun`, `expressjs`, `drizzle`, `postgresq`, `polar`, `redis`, `docker`, `opanAPI` and `aws`. here are some alternatives i love to use and feel comfortable with - `honojs`, `prisma`, `mongodb`, `supabase` and a lot more...
 
-<!-- 🧠 code — making software with feeling and logic -->
+ these days, i’m actively exploring diff. concepts like `tRPC` and  **generative ai**, working with ideas like  
+ `RAG`, `MCP`, and `Vector Databases` etc.
 
-📬 connect:
-[x](https://x.com/deepsoumyaaa) •
-[instagram](https://instagram.com/_deep_.soumya/) ・ [linkedin](https://www.linkedin.com/in/deepsoumya617/) <br/>
-📩 or mail me at ~ **soumyadeepghosh617@gmail.com**
-
-
-<!-- ## 📂 Recent Projects -->
-
-<!--  No active `projects` at the moment 🚧 — I’m spending time sharpening my backend and DevOps skills. -->
-<!-- | Project | Description |
-|----------|-------------|
-| [**Shoply**](https://github.com/deepsoumya617/shoply) | A modern RESTful eCommerce backend api with Monolith architecture, but it’s scalable..(i guess!) | -->
-
-
-🌼 thanks for visiting!
+📩 reach me at **soumyadeepghosh617@gmail.com** or at my social handles.
