@@ -1,4 +1,4 @@
-> "jack of all trades, master of ~~none~~ all."
+> "jack of all trades, master of ~~none~~ the most."
 
 # hi 👋, i'm soumyadeep ghosh (deep)
 
